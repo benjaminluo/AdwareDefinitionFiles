@@ -50,8 +50,7 @@
 	</Adware>
 	<Adware>
 		<AdwareName>Genieo and InstallMac</AdwareName>
-		<!-- TODO: No known source at the moment. -->
-		<File>/private/etc/launchd.conf</File>
+		<!-- TODO: No known source at the moment. -->	
 		<File>/Applications/Genieo</File>
 		<File>/Applications/InstallMac</File>
 		<File>/Applications/Uninstall Genieo</File>
