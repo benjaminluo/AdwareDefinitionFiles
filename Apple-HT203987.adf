@@ -62,6 +62,7 @@
 		<File>/Library/PrivilegedHelperTools/com.genieoinnovation.macextension.client</File>
 		<File>/Users/*/Library/Application Support/Genieo/</File>
 		<File>/Users/*/Library/Application Support/com.genieoinnovation.Installer/</File>
+		<File>/Users/*/Library/Containers/com.apple.SocialPushAgent/Data/Downloads/InstallGenieo.dmg</File>
 		<File>/Library/Frameworks/GenieoExtra.framework</File>
 		<File>/Library/LaunchAgents/com.genieo.completer.update.plist</File>
 		<File>/Library/LaunchAgents/com.genieo.engine.plist</File>
